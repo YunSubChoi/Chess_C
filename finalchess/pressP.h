@@ -1,0 +1,4 @@
+void firstpress(int &tempsw, int &y, int &temp1x, int &temp1y, int &chx, int &chy, int &tempPx, int &tempPy, char &temp1moh, int hub[][10], char &temp1p, char &tempLp, char &tempRp, char &temp2Fp, char &tempFp, char &tempFP, char &temp2FP);
+void secendpress(char &temp1mohS, int &tempQ, int &keyRead, int &tempKN, int &tempbish, int & tempR1, char &temp2moh, int &temp2y, int &temp2x, int &tempK, char splayer[], char fplayer[], int &tempsw, int &y, int &temp1x, int &temp1y, int &chx, int &chy, int &tempPx, int &tempPy, char &temp1moh, int hub[][10], char &temp1p, char &tempLp, char &tempRp, char &temp2Fp, char &tempFp, char &tempFP, char &temp2FP, int &firstpoint, int &secondpoint, long int &turnTime, long int &timeP, long int timeP1, long int timeP2);
+void wrongpress(int &chy, int &chx, int &y);
+//void point(int &firstpoint, int &secondpoint, char temp2moh, char fplayer[], char splayer[], int chx, int chy);
